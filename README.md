@@ -1,6 +1,6 @@
 # Mental Exercises Scripts
 
-A collection of Python scripts designed to help you practice and improve various mental skills—from quick letter‑math quizzes and chess‑board drills to memory palace exercises.
+A collection of Python scripts designed to help you practice and improve various mental skills, from quick lettermath quizzes and chess‑board drills to memory palace exercises.
 
 
 ## Usage
