@@ -13,7 +13,10 @@ python path/to/script.py
 
 Most scripts support simple command‑line arguments or will guide you via interactive prompts. For advanced configuration or explanation, check the top of each file for docstrings and usage examples.
 
-# Memory Palace Trainer
+
+
+
+## Memory Palace Trainer
 
 
 A desktop GUI application to help you build and practice your own memory palaces. Create loci–item pairs one by one or in bulk, then quiz yourself endlessly on order and associations while tracking accuracy, response time, and streaks.
