@@ -38,6 +38,6 @@ A desktop GUI application to help you build and practice your own memory palaces
   - Average response time  
   - Current and best correct streaks  
 - **Plain-vanilla Dependencies**  
-  - Written in pure Python 3.x using the built-in `tkinter` GUI library  
+  - Written in python using the built-in `tkinter` GUI library  
   - Zero external packages required  
 
